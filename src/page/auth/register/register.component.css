@@ -1,0 +1,24 @@
+body{
+height: auto;
+width: 100%;
+margin: 0;
+padding: 0;
+}
+
+.registerform{
+
+
+    display: flex;
+    flex-direction: column;
+    margin: 20px 5px;
+    padding: 20px 5px;
+  
+}
+.registerform label{
+    margin:7px 0;
+}
+
+.registerform button{
+    width: 100px;
+    margin:50px 10px;
+}

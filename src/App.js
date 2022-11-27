@@ -1,13 +1,13 @@
 import './App.css';
-import Myheader from './common/header.component';
-import Myfooter from './common/footer,component';
+import Register from './page/auth/register/register.component';
 
 function App() {
   return (
-    <div> 
-      <Myheader/>
-      <Myfooter></Myfooter>
-  </div>
+    
+    <>
+   <Register/>
+    </>
+  
   );
 }
 
